@@ -98,7 +98,16 @@
       <!-- Page Header -->
       <section class="page-header">
         <h1>Apply for a Cobra Youth Scholarship</h1>
-        <p>Free Brazilian Jiu-Jitsu training, mentorship, and gear for underserved youth in North Dallas/Plano</p>
+        <p>Ages four through twenty six who live in Plano or the North Dallas area may apply. Priority goes to low income households, single parent families, youth facing challenging circumstances, and students who show commitment to growth in martial arts. There is no cost to families. Scholarships are fully donor funded.</p>
+        
+        <h3 style="color:var(--brand);margin:28px auto 16px;font-size:20px;text-align:center;max-width:600px;">How it works</h3>
+        <p style="max-width:600px;margin:0 auto 16px;">Apply online through the Apply Now button. Applications are reviewed by a panel. Priority is based on order of application and need. If funds are limited, eligible applicants may join a waitlist.</p>
+        
+        <h3 style="color:var(--brand);margin:28px auto 16px;font-size:20px;text-align:center;max-width:600px;">Program expectations and renewal</h3>
+        <p style="max-width:600px;margin:0 auto 16px;">Scholarships are renewed each year based on regular attendance, positive behavior, and steady effort in school so students stay on track on and off the mats. Parent involvement is welcome but not required.</p>
+        
+        <h3 style="color:var(--brand);margin:28px auto 16px;font-size:20px;text-align:center;max-width:600px;">Coverage</h3>
+        <p style="max-width:600px;margin:0 auto 32px;">Scholarships cover training tuition at Cobra BJJ, uniforms and gear, mentorship, and tournament support when it is appropriate. When there is need, the program may also help with transportation or tutoring. Everything is free to families.</p>
         <a href="#application-form" class="start-btn">
           Start Your Application
           <svg viewBox="0 0 20 20" fill="currentColor">
@@ -249,8 +258,8 @@
             <legend>E) Short Answers</legend>
             <div class="form-row">
               <div>
-                <label for="why_bjj">Why do you want to train Brazilian Jiu-Jitsu? <span class="required">*</span></label>
-                <textarea id="why_bjj" name="why_bjj" required placeholder="2-3 sentences about your interest in BJJ and what you hope to gain"></textarea>
+                <label for="why_bjj">Why do you want to train Brazilian Jiu Jitsu? <span class="required">*</span></label>
+                <textarea id="why_bjj" name="why_bjj" required placeholder="2-3 sentences about your interest in Jiu Jitsu and what you hope to gain"></textarea>
               </div>
             </div>
             <div class="form-row">
