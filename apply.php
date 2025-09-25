@@ -82,7 +82,7 @@
     <div class="container">
       <div class="header-inner">
         <a href="/" class="logo">
-          <img src="/logo.png" alt="Cobra Youth Scholarship Foundation">
+          <img src="logo.png" alt="Cobra Youth Scholarship Foundation">
           Cobra Scholarship
         </a>
         <nav class="nav">
